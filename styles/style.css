@@ -1,0 +1,16 @@
+nav.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+p.card-text {
+  margin-bottom: 0;
+}
+
+main.container {
+  padding: 15px !important;
+}
+
+div.d-grid {
+  margin-bottom: 15px;
+}
